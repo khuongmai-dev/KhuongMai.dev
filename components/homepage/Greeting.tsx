@@ -38,10 +38,10 @@ const Greetings = () => {
 
   return (
     <div className="lg:mb-10 lg:mt-10">
-      <h1 className="to-white-400 my-10 bg-cyan-500 bg-gradient-to-r bg-clip-text text-7xl font-extrabold text-transparent dark:to-blue-500">
+      <h1 className="bg-gradient-to-r from-lime-500 to-yellow-400 bg-clip-text text-7xl font-extrabold text-transparent dark:to-blue-500">
         Hi Friends,
       </h1>
-      <div className="dark:prose-dark prose lg:prose-lg">
+      <div className="dark:prose-dark prose prose-invert lg:prose-lg">
         <p>
           Welcome! I’m <b>Khuong Mai</b> - a passionate Web Developer in Canada.
         </p>
